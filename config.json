@@ -1,0 +1,12 @@
+{
+    "username": "your username",
+    "password": "your password",
+    "moderators": [
+        {
+            "name" :"navdeep_usict"
+        },
+        {
+            "name" :"pepcoding_sumeet"
+        }
+    ]
+}
